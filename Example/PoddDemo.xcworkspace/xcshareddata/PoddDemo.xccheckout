@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B088C99-4021-49E5-925F-0B6702EE4519</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PoddDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>541370D0B58000272CF1F3BABD9A985899EA20E2</key>
+		<string>https://github.com/GayathriPalaniraj/PoddDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/PoddDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>541370D0B58000272CF1F3BABD9A985899EA20E2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GayathriPalaniraj/PoddDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>541370D0B58000272CF1F3BABD9A985899EA20E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>541370D0B58000272CF1F3BABD9A985899EA20E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PoddDemo1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
